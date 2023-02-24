@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrmxHome", "BrmxHome\BrmxHome.csproj", "{01DBFA46-647C-41A1-92AD-8C8CEED400CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrmxHome.DatabaseConnector", "BrmxHome.DatabaseConnector\BrmxHome.DatabaseConnector.csproj", "{CAF74BFF-FC5C-46A6-A871-B49355DB0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DBFA46-647C-41A1-92AD-8C8CEED400CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DBFA46-647C-41A1-92AD-8C8CEED400CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DBFA46-647C-41A1-92AD-8C8CEED400CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DBFA46-647C-41A1-92AD-8C8CEED400CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF74BFF-FC5C-46A6-A871-B49355DB0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF74BFF-FC5C-46A6-A871-B49355DB0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF74BFF-FC5C-46A6-A871-B49355DB0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF74BFF-FC5C-46A6-A871-B49355DB0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6321FBFF-529F-49FD-80CC-F961942E6517}
+	EndGlobalSection
+EndGlobal
